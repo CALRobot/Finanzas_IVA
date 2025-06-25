@@ -1,6 +1,6 @@
 Finanzas_IVA
 
-Aplicación web desarrollada en PHP para la gestión personal de ingresos y gastos. Incluye cálculo de IVA y la posibilidad de adjuntar fotos o comprobantes (PDF/imagen) a cada registro.
+Aplicación web desarrollada en PHP-HTM-CSS-JS , para la gestión personal de ingresos y gastos. Incluye cálculo de IVA y la posibilidad de adjuntar fotos o comprobantes (PDF/imagen) a cada registro.
 ¿Para qué sirve?
 
 Esta aplicación te permite:
