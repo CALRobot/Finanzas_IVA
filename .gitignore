@@ -1,0 +1,13 @@
+# Ignorar la carpeta de uploads de usuarios
+uploads/
+
+# Ignorar el archivo de configuración de la base de datos si contiene credenciales sensibles
+config/database.php
+
+# Archivos temporales de PHP y logs
+*.tmp
+*.log
+
+# Archivos de sistema ocultos que no deben ir al repositorio
+.DS_Store # Para usuarios de macOS
+Thumbs.db # Para usuarios de Windows
